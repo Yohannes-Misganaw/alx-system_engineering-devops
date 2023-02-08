@@ -1,4 +1,2 @@
 #!/bin/bash
-
-path="/alx-system_engineering-devops/0x00-shell_basics"
-echo ‘The absolute path is’ $path
+echo ‘The absolute path is /alx-system_engineering-devops/0x00-shell_basics’ 
