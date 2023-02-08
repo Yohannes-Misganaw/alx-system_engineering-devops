@@ -1,2 +1,4 @@
 #!/bin/bash
-/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+
+path="/alx-system_engineering-devops/0x00-shell_basics"
+echo ‘The absolute path is’ $path
