@@ -1,2 +1,2 @@
 #!/bin/bash
-man grep
+echo $(( 2#$BINARY ))
